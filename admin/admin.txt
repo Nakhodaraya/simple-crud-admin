@@ -1,0 +1,5 @@
+Admin
+  -Have its own login panel
+  -Update its own profile.
+  -View list of users.
+  -Update and delete user.
