@@ -34,7 +34,7 @@
                 <input type="submit"    name="submit"   formaction="list.php"    value="Back" style="background-color:#696969">
                 <p class="msg">
                     <?php 
-                        //if sign in not succeed
+                        //if update not succeed
                         //error message
                         if(isset($_GET['msg'])){
                             $msg    =   $_GET['msg'];
