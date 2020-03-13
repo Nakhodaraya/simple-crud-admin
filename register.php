@@ -28,7 +28,7 @@
                 <p>Already register? <a href="index.php">Sign in now</a></p>
                 <p class="msg">
                     <?php 
-                        //if sign in not succeed
+                        //if registration not succeed
                         //error message
                         if(isset($_GET['msg'])){
                             $msg    =   $_GET['msg'];
