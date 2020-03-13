@@ -16,7 +16,7 @@
                 <input type="password"  name="password" placeholder="Password"  required><br>
                 <input type="submit"    name="submit"   value="Next">
                 <p>Not register yet? <a href="register.php">Register now</a></p>
-                <p>
+                <p class="msg">
                     <?php 
                         //if sign in not succeed
                         //error message
